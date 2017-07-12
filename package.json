@@ -1,6 +1,6 @@
 {
   "name": "jm-passport-mongodb",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "mongodb plugin for jm-passport",
   "main": "./lib/index",
   "repository": {
@@ -21,7 +21,7 @@
   "homepage": "https://github.com/jm-root/jm-passport-mongodb",
   "dependencies": {
     "jm-sso": "^1.0.1",
-    "jm-user": "^1.0.5",
+    "jm-user": "^1.0.9",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0"
   }
